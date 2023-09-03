@@ -1,2 +1,3 @@
 # nash-cook
-Its the first github repository
+Its my first github repository
+Author-Aditya Pradhan
