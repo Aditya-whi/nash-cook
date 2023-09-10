@@ -11,4 +11,4 @@ So today was my first class in IEE and i found it quite interesting
 <br>
 3rd day was good got to know about CADG class and got some new information about enginnering graphics 
 <br>
-we installed AUTOCAD  
+we installed AUTOCAD . 
